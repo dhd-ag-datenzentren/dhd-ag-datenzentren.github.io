@@ -15,4 +15,4 @@ title: Workshop zum Thema Interoperabilität
 - Olaf Michaelis / Ulrike Wuttke (Potsdam): Semantische und syntaktische Interoperabilität des RDMO-Datenmodells [Folien](https://dhd-ag-datenzentren.github.io/workshop-2020/michaelis-wuttke.pdf)
 - Torsten Schrade (Mainz): NFDI4Culture
 - Ortrun Brand (Marburg): Hessische Forschungsdateninfrastrukturen [Folien](https://dhd-ag-datenzentren.github.io/workshop-2020/brand.pdf)
-- Peter Gietz (Tübingen): Mögicher Broker-Mechanismen, um Dienste verschiedener Datenzentren über einen Ansprechpartner anbieten zu können [Folien](https://dhd-ag-datenzentren.github.io/workshop-2020/gietz.pdf)
+- Peter Gietz (Tübingen): Möglicher Broker-Mechanismen, um Dienste verschiedener Datenzentren über einen Ansprechpartner anbieten zu können [Folien](https://dhd-ag-datenzentren.github.io/workshop-2020/gietz.pdf)
