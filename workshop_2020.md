@@ -4,7 +4,7 @@ title: Workshop zum Thema Interoperabilität
 
 # Workshop der DHd-AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main
 
-[Programm des Workshops](https://dhd-ag-datenzentren.github.io/workshop-2020/programm.pdf)
+[Programm des Workshops](https://dhd-ag-datenzentren.github.io/workshop_2020/programm.pdf)
 
 ## Vorträge
 
