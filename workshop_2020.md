@@ -1,4 +1,4 @@
-
+---
 title: Workshop zum Thema Interoperabilität
 ---
 
