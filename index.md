@@ -23,18 +23,19 @@ An der Arbeitsgruppe sind beteiligt:
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
 - <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
 - <a href="http://dasch.swiss" target="_blank">Data and Service Center for the Humanities (DaSCH)</a>, Basel, Lukas Rosenthaler, Vera Chiquet.*
-- <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Patrick Sahle, Jonathan Blumtritt, Patrick Helling, Felix Rau.*
+- <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Jonathan Blumtritt, Patrick Helling, Felix Rau.*
+- <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Data Center for the Humanities (DCH)</a>, Deutsche Nationalbibliothek (DNB), Leipzig und Frankfurt am Main: Peter Leinen
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
 Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Julian Schulz.*
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
 - <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
 - <a href="https://www.corpora.uni-hamburg.de" target="_blank">Hamburger Zentrum für Sprachkorpora (HZSK)</a>, Hamburg: Hanna Hedeland.*
-- <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsinfrastrukturen</a>, Marburg: Stefan Schulte.*
+- <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Stefan Schulte, Ortun Brand.*
 - [Hessisches Landesarchiv](https://landesarchiv.hessen.de/), Marburg: Nils Reichert 
 - <a href="http://www.geschichte.uni-halle.de/struktur/hist-data/" target="_blank">Historisches Datenzentrum Sachsen-Anhalt (Hist-Data)</a>, Halle-Wittenberg: Katrin Moeller / Forschungsinfrastrukturen Universitäts- und Landesbibliothek Sachsen-Anhalt: Roberto Cozatl (ULB).*
 - <a href="http://humanities-data-centre.de/" target="_blank">Humanities Data Centre (HDC)</a>, Göttingen: Sven Bingert, Claudia Engelhardt, Daniel Kurzawe, Jörg Wettlaufer.*
 - <a href="http://www.ianus-fdz.de" target="_blank">IANUS am Deutschen Archäologischen Institut (IANUS)</a>, Berlin: Maurice Heinrich, Felix Schäfer.
-- <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt.
+- <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt, Hanna Hedeland.
 - <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Deutsche Geschichte</a>, Mainz: Fabian Cremer.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
 - FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
