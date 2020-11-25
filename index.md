@@ -93,4 +93,3 @@ E-Mail: [ulrike.wuttke@gmx.net](mailto:ulrike.wuttke@gmx.net)
 Convenor 4/2014-3/2016: Patrick Sahle  
 Convenor 4/2016-3/2019: Kai Wörner	 
 
-[DK](dienstekatalog.md)
