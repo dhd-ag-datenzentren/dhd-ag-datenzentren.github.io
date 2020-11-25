@@ -29,7 +29,6 @@ An der Arbeitsgruppe sind beteiligt:
 Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Julian Schulz.*
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
 - <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
-- <a href="https://www.corpora.uni-hamburg.de" target="_blank">Hamburger Zentrum für Sprachkorpora (HZSK)</a>, Hamburg: Hanna Hedeland.*
 - <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Stefan Schulte, Ortun Brand.*
 - [Hessisches Landesarchiv](https://landesarchiv.hessen.de/), Marburg: Nils Reichert 
 - <a href="http://www.geschichte.uni-halle.de/struktur/hist-data/" target="_blank">Historisches Datenzentrum Sachsen-Anhalt (Hist-Data)</a>, Halle-Wittenberg: Katrin Moeller / Forschungsinfrastrukturen Universitäts- und Landesbibliothek Sachsen-Anhalt: Roberto Cozatl (ULB).*
