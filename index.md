@@ -56,6 +56,7 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
   - Julien Raemy, Lukas Rosenthaler und Vera Chiquet, DaSCH Data and Service Center for Humanities, Schweizerische Akademie der Geistes- und Sozialwissenschaften Basel: „Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren“, Mo. 31.05.2021, 10.00-12.00 Uhr <a href="https://vdhd2021.hypotheses.org/861">https://vdhd2021.hypotheses.org/861<a>
   - Felix Rau, Data Center of the Humanities, Universität Köln: „Datendokumentation und Archivierung audiovisueller Sprachdaten“, asynchroner Beitrag
   - Diskussionsrunde: Dokumentation von Forschungsdaten und Herausforderungen von Datentransparenz in der Forschungspraxis, 17.09.2021, 14.00-15.00 Uhr
+  
 
 - **Forge 2021**
 Call for Papers zur FORGE21: Jetzt für die Tagung "Mapping the Landscape - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
