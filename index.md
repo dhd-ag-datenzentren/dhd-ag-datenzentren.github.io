@@ -49,8 +49,18 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 
 ## Aktuelles
 
+- **Workshopreihe "Hands On Research Data" der AG Datenzentren auf der vDHd 2021 "Experimente"**
+- Hanna Hedeland und Thomas Schmidt, Leibniz-Institut für Deutsche Sprache Mannheim: „Transkription audiovisueller Daten – Werkzeuge und gute Praktiken“, Mi. 24.03.2021, 13.00-15.00 Uhr und Do. 16.09.2021, 13.00-15.00 Uhr, Beschreibung und Anmeldemöglichkeiten: <a href="https://vdhd2021.hypotheses.org/290">https://vdhd2021.hypotheses.org/290<a> 
+- Marina Lemaire, Servicezentrum eSciences, Universität Trier: „Datendokumentation für eine digitale Edition. Welche Informationen über die Daten brauchen Datennachnutzer:innen?“
+- Katrin Moeller, Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg: „Historische Karten mit Qgis erstellen und dokumentieren“
+- Julien Raemy, Lukas Rosenthaler und Vera Chiquet, DaSCH Data and Service Center for Humanities, Schweizerische Akademie der Geistes- und Sozialwissenschaften Basel: „Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren“
+- Felix Rau, Data Center of the Humanities, Universität Köln: „Datendokumentation und Archivierung audiovisueller Sprachdaten“
+- Diskussionsrunde: Dokumentation von Forschungsdaten und Herausforderungen von Datentransparenz in der Forschungspraxis
+
 - **Forge 2021**
 Call for Papers zur FORGE21: Jetzt für die Tagung "Mapping the Landscape - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
+  
+  
   
 - **Dienstekatalog AG Datenzentren**
 Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
