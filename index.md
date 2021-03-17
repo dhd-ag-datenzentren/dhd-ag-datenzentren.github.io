@@ -50,7 +50,8 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 ## Aktuelles
 
 - **Forge 2021**
-Call for Papers zur FORGE21 <a href="Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
+Call for Papers zur FORGE21: Jetzt für die Tagung "Mapping the Landscape - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
+  
 - **Dienstekatalog AG Datenzentren**
 Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
 
