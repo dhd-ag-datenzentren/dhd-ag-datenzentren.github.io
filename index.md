@@ -48,11 +48,13 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.
 
 ## Aktuelles
+
+- **Forge 2021**
+Call for Papers zur FORGE21 <a href="Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
 - **Dienstekatalog AG Datenzentren**
 Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
 
-- **Folien des Workshops 2020**
-Erreichbar unter: <a href="https://dhd-ag-datenzentren.github.io/workshop_2020">https://dhd-ag-datenzentren.github.io/workshop_2020<a>
+
   
     
 **Veranstaltungen 2020** 
@@ -61,6 +63,8 @@ Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12806">https://dhd-bl
 
 - **Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12627">https://dhd-blog.org/?p=12627<a>
+  - **Folien des Workshops 2020**
+Erreichbar unter: <a href="https://dhd-ag-datenzentren.github.io/workshop_2020">https://dhd-ag-datenzentren.github.io/workshop_2020<a>
 
 **Neue Publikation der DHd-AG-Datenzentren** 
 
