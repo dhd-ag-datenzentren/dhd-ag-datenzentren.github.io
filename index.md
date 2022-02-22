@@ -22,7 +22,7 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
 - <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
-- <a href="http://dasch.swiss" target="_blank">Data and Service Center for the Humanities (DaSCH)</a>, Basel, Lukas Rosenthaler, Vera Chiquet.*
+- <a href="http://dasch.swiss" target="_blank">DaSCH, Nationales Schweizerisches Daten- & Servicezentrum für die Geisteswissenschaften (DaSCH)</a>, Basel, Marco Menna.*
 - <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Jonathan Blumtritt, Patrick Helling, Felix Rau.*
 - <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Data Center for the Humanities (DCH)</a>, Deutsche Nationalbibliothek (DNB), Leipzig und Frankfurt am Main: Peter Leinen
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
