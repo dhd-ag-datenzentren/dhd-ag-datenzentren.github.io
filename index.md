@@ -24,7 +24,7 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
 - <a href="http://dasch.swiss" target="_blank">DaSCH, Nationales Schweizerisches Daten- & Servicezentrum für die Geisteswissenschaften (DaSCH)</a>, Basel, Marco Menna.*
 - <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Jonathan Blumtritt, Patrick Helling, Felix Rau.*
-- <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Data Center for the Humanities (DCH)</a>, Deutsche Nationalbibliothek (DNB), Leipzig und Frankfurt am Main: Peter Leinen
+- <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Deutsche Nationalbibliothek (DNB)</a>, Leipzig und Frankfurt am Main: Peter Leinen
 - [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
 Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Julian Schulz.*
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
