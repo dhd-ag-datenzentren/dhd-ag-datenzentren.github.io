@@ -66,8 +66,9 @@ Vertreter:innen von Infrastruktureinrichtungen (AG Datenzentren) möchten mit Fo
   - Felix Rau, Data Center of the Humanities, Universität Köln: „Datendokumentation und Archivierung audiovisueller Sprachdaten“, asynchroner Beitrag
   - Diskussionsrunde: Dokumentation von Forschungsdaten und Herausforderungen von Datentransparenz in der Forschungspraxis, 17.09.2021, 14.00-15.00 Uhr
   
+  
 - **Forge 2021**
-Call for Papers zur FORGE21: Jetzt für die Tagung "<a href="https://forge2021.uni-koeln.de">Mapping the Landscape<a> - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
+Tagung FORGE21: "<a href="https://forge2021.uni-koeln.de">Mapping the Landscape<a> - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
   
 - **RaDiHum20 spricht mit der AG Datenzentren**
   In der Januarfolge des Kanals RaDIHum20 sprechen die Convenorinnen der AG Datenzentren des Verbands der "Digital Humanities im deutschsprachigen Raum" mit dem Team von RaDiHum zum Thema Forschungsdatenmanagement und Aufgaben der Wissenschaft zur Publikation von qualitätsgesicherten und dokumentierten Daten. <a href="https://radihum20.de/ag-datenzentren/">https://radihum20.de/ag-datenzentren/<a>
