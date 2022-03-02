@@ -17,7 +17,7 @@ An der Arbeitsgruppe sind beteiligt:
 
 - <a href="http://www.adwmainz.de/mitarbeiterinnen/profil/jonathan-d-geiger.html" target="_blank">Akademie der Wissenschaften und der Literatur, Digitale Akademie</a>, Mainz: Jonathan G. Geiger.
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
-- <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Katja Marciniak, Paul Sutter.*
+- <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Katja Marciniak, Dominik Blöse, Markus Schnöpf.*
 - <a href="https://www.geschichte.uni-wuppertal.de/de/personen/digital-humanities/prof-dr-patrick-sahle.html" target="_blank">Bergische Universität Wuppertal, Lehrgebiet Digital Humanities</a>, Wuppertal: Patrick Sahle.
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
@@ -49,6 +49,15 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 
 ## Aktuelles
 
+- **Workshop DHd-Tagung 2022: Ethisch - transparent - offen: Die CARE-Prinzipien und ihre Implikationen für geisteswissenschaftliche FDM-Services**
+Konzeption und Moderation: Katrin Moeller (Martin-Luther-Universität Halle-Wittenberg), Sibylle Söring (Universitätsbibliothek der Freien Universität Berlin), Sabine Imeri (Universitätsbibliothek und Fachinformationsdienst Sozial- und Kulturanthropologie an der Humboldt-Universität zu Berlin), Marina Lemaire (Servicezentrum eSciences der Universität Trier), Nils Reichert (Hessisches Landesarchiv, Marburg)
+
+Vertreter:innen von Infrastruktureinrichtungen (AG Datenzentren) möchten mit Forschenden über ethische Herausforderungen zur Entwicklung und Umsetzung des Forschungsdatenmanagements (FDM) diskutieren. Dabei fallen häufig Beratungs- und Kompetenzvermittlungsaufgaben an, die weit in rechtliche und ethische Thematiken ausgreifen, für die Mitarbeiter:innen von Datenzentren und Infrastruktureinrichtungen aber nicht geschult sind, und für die aus geisteswissenschaftlicher Perspektive auch kaum Handreichungen existieren.Ergänzt wird diese Perspektive durch fachliche Beiträge zu Anwendungskontexten, zur Relevanz und disziplinären Ausweitung der CARE-Prinzipien durch die Ethnologin Sabine Imeri (FID Sozial- und Kulturanthropologie, HU Berlin/Universität Bremen) sowie Vertreter:innen weiterer Fachkontexte. Die einzelnen Themenblöcke werden Herausforderungen am Beispiel von Oral History (Verena Lucia Nägel, Universitätsbibliothek, FU Berlin), Afrikanistik/Linguistik (Henning Schreiber/Katrin Pfeiffer, Asien-Afrika-Institut, Universität Hamburg) sowie Archivrecht (Thomas Henne, Archivschule Marburg) in den Blick nehmen. Die Verschränkung von FDM-Expertise und Problemszenarien der Forschungspraxis soll beide Handlungsebenen besser miteinander in Bezug setzen und die gegenseitige Wahrnehmung von Bedarfen, Herausforderungen und Lösungskonzepten fördern. Der Workshop ist bereits vollständig ausgebucht: <a href="https://www.conftool.net/dhd2022/index.php?page=browseSessions&form_session=6&presentations=show">Workshop<a>
+  
+  - **AG-Treffen auf der DHD 2022**
+  Das AG Treffen auf der digitalen DHd 2022 findet am Donnerstag, den 10. März 2022 zwischen 13:30 und 14:30 Uhr statt. Das Treffen ist öffentlich über die Tagungsanmeldung zur DHd 2020 möglich: <a href="https://www.conftool.net/dhd2022/sessions.php">https://www.conftool.net/dhd2022/sessions.php<a>
+
+**Veranstaltungen 2021** 
 - **Veranstaltungen 2021: Workshopreihe "Hands On Research Data" der AG Datenzentren auf der vDHd 2021 "Experimente"**
   - Hanna Hedeland und Thomas Schmidt, Leibniz-Institut für Deutsche Sprache Mannheim: „Transkription audiovisueller Daten – Werkzeuge und gute Praktiken“, Mi. 24.03.2021, 13.00-15.00 Uhr und Do. 16.09.2021, 13.00-15.00 Uhr, <a href="https://vdhd2021.hypotheses.org/290">https://vdhd2021.hypotheses.org/290<a> 
   - Marina Lemaire, Servicezentrum eSciences, Universität Trier: „Datendokumentation für eine digitale Edition. Welche Informationen über die Daten brauchen Datennachnutzer:innen?“, Webinar ab 03.05.2021, Workshop Mi. 02.06.2021, 10.00-13.00 Uhr <a href="https://vdhd2021.hypotheses.org/283">https://vdhd2021.hypotheses.org/283<a>
@@ -57,7 +66,6 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
   - Felix Rau, Data Center of the Humanities, Universität Köln: „Datendokumentation und Archivierung audiovisueller Sprachdaten“, asynchroner Beitrag
   - Diskussionsrunde: Dokumentation von Forschungsdaten und Herausforderungen von Datentransparenz in der Forschungspraxis, 17.09.2021, 14.00-15.00 Uhr
   
-
 - **Forge 2021**
 Call for Papers zur FORGE21: Jetzt für die Tagung "<a href="https://forge2021.uni-koeln.de">Mapping the Landscape<a> - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
   
@@ -68,8 +76,6 @@ Call for Papers zur FORGE21: Jetzt für die Tagung "<a href="https://forge2021.u
 - **Dienstekatalog AG Datenzentren**
 Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
 
-
-  
     
 **Veranstaltungen 2020** 
 - **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
