@@ -25,8 +25,6 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="http://dasch.swiss" target="_blank">DaSCH, Nationales Schweizerisches Daten- & Servicezentrum für die Geisteswissenschaften (DaSCH)</a>, Basel, Marco Menna.*
 - <a href="http://www.dch.uni-koeln.de" target="_blank">Data Center for the Humanities (DCH)</a>, Köln: Jonathan Blumtritt, Patrick Helling, Felix Rau.*
 - <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Deutsche Nationalbibliothek (DNB)</a>, Leipzig und Frankfurt am Main: Peter Leinen
-- [eHumanities - interdisziplinär: Modellvorhaben Forschungsdatenmanagement 
-Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Julian Schulz.*
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
 - <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
 - <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Stefan Schulte, Ortun Brand.*
@@ -36,6 +34,7 @@ Bayern](https://www.fdm-bayern.org/), FAU Erlangen-Nürnberg, LMU München: Juli
 - <a href="http://www.ianus-fdz.de" target="_blank">IANUS am Deutschen Archäologischen Institut (IANUS)</a>, Berlin: Maurice Heinrich, Felix Schäfer.
 - <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt, Hanna Hedeland.
 - <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Deutsche Geschichte</a>, Mainz: Fabian Cremer.
+- <a href="https://https://www.maxweberstiftung.de/startseite.html">Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland</a>, Bonn: Julian Schulz.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
 - FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
 - <a href="http://www.sagw.ch" target="_blank">Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</a>, Bern: Beat Immenhauser.
