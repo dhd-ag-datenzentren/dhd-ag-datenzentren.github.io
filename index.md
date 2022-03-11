@@ -48,16 +48,19 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 
 ## Aktuelles
 
-- **Workshop auf der DHd-Tagung 2022 am 7. März 2022, 14-18:00 Uhr: Ethisch - transparent - offen: Die CARE-Prinzipien und ihre Implikationen für geisteswissenschaftliche FDM-Services**
+### Sammlung von Fallbeispielen für ethische Aspekte im Forschungsdatenmanagement
+Im Nachgang zu unserem CARE-Workshop auf der DHd2022 sammeln wir weiterhin Fallbeispiele zum Umgang mit Forschungsdaten aus ethischer Perspektive, unter Berücksichtigung von Machtdynamiken und historische Kontexten. Über dieses <a href="https://www.esciences.uni-trier.de/fallbeispielen-care-ethik/">Formular</a> können weitere Fallbeispiele eingereicht werden.
+
+### Workshop auf der DHd-Tagung 2022 am 7. März 2022, 14-18:00 Uhr: Ethisch - transparent - offen: Die CARE-Prinzipien und ihre Implikationen für geisteswissenschaftliche FDM-Services
 Konzeption und Moderation: Katrin Moeller (Martin-Luther-Universität Halle-Wittenberg), Sibylle Söring (Universitätsbibliothek der Freien Universität Berlin), Sabine Imeri (Universitätsbibliothek und Fachinformationsdienst Sozial- und Kulturanthropologie an der Humboldt-Universität zu Berlin), Marina Lemaire (Servicezentrum eSciences der Universität Trier), Nils Reichert (Hessisches Landesarchiv, Marburg)
 
 Vertreter:innen von Infrastruktureinrichtungen (AG Datenzentren) möchten mit Forschenden über ethische Herausforderungen zur Entwicklung und Umsetzung des Forschungsdatenmanagements (FDM) diskutieren. Dabei fallen häufig Beratungs- und Kompetenzvermittlungsaufgaben an, die weit in rechtliche und ethische Thematiken ausgreifen, für die Mitarbeiter:innen von Datenzentren und Infrastruktureinrichtungen aber nicht geschult sind, und für die aus geisteswissenschaftlicher Perspektive auch kaum Handreichungen existieren.Ergänzt wird diese Perspektive durch fachliche Beiträge zu Anwendungskontexten, zur Relevanz und disziplinären Ausweitung der CARE-Prinzipien durch die Ethnologin Sabine Imeri (FID Sozial- und Kulturanthropologie, HU Berlin/Universität Bremen) sowie Vertreter:innen weiterer Fachkontexte. Die einzelnen Themenblöcke werden Herausforderungen am Beispiel von Oral History (Verena Lucia Nägel, Universitätsbibliothek, FU Berlin), Afrikanistik/Linguistik (Henning Schreiber/Katrin Pfeiffer, Asien-Afrika-Institut, Universität Hamburg) sowie Archivrecht (Thomas Henne, Archivschule Marburg) in den Blick nehmen. Die Verschränkung von FDM-Expertise und Problemszenarien der Forschungspraxis soll beide Handlungsebenen besser miteinander in Bezug setzen und die gegenseitige Wahrnehmung von Bedarfen, Herausforderungen und Lösungskonzepten fördern. Der Workshop ist bereits vollständig ausgebucht: <a href="https://www.conftool.net/dhd2022/index.php?page=browseSessions&form_session=6&presentations=show">Workshop<a>
   
-  - **AG-Treffen auf der DHD 2022**
+### AG-Treffen auf der DHD 2022
   Das AG Treffen auf der digitalen DHd 2022 findet am Donnerstag, den 10. März 2022 zwischen 13:30 und 14:30 Uhr statt. Das Treffen ist öffentlich über die Tagungsanmeldung zur DHd 2020 möglich: <a href="https://www.conftool.net/dhd2022/sessions.php">https://www.conftool.net/dhd2022/sessions.php<a>
 
-**Veranstaltungen 2021** 
-- **Veranstaltungen 2021: Workshopreihe "Hands On Research Data" der AG Datenzentren auf der vDHd 2021 "Experimente"**
+## Veranstaltungen 2021 
+### Veranstaltungen 2021: Workshopreihe "Hands On Research Data" der AG Datenzentren auf der vDHd 2021 "Experimente"
   - Hanna Hedeland und Thomas Schmidt, Leibniz-Institut für Deutsche Sprache Mannheim: „Transkription audiovisueller Daten – Werkzeuge und gute Praktiken“, Mi. 24.03.2021, 13.00-15.00 Uhr und Do. 16.09.2021, 13.00-15.00 Uhr, <a href="https://vdhd2021.hypotheses.org/290">https://vdhd2021.hypotheses.org/290<a> 
   - Marina Lemaire, Servicezentrum eSciences, Universität Trier: „Datendokumentation für eine digitale Edition. Welche Informationen über die Daten brauchen Datennachnutzer:innen?“, Webinar ab 03.05.2021, Workshop Mi. 02.06.2021, 10.00-13.00 Uhr <a href="https://vdhd2021.hypotheses.org/283">https://vdhd2021.hypotheses.org/283<a>
   - Katrin Moeller, Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg: „Historische Karten mit Qgis erstellen und dokumentieren“, Workshop 26.03.2019, 9.00-13.00 Uhr, <a href="https://vdhd2021.hypotheses.org/180">https://vdhd2021.hypotheses.org/180<a>
@@ -66,27 +69,27 @@ Vertreter:innen von Infrastruktureinrichtungen (AG Datenzentren) möchten mit Fo
   - Diskussionsrunde: Dokumentation von Forschungsdaten und Herausforderungen von Datentransparenz in der Forschungspraxis, 17.09.2021, 14.00-15.00 Uhr
   
   
-- **Forge 2021**
+### Forge 2021
 Tagung FORGE21: "<a href="https://forge2021.uni-koeln.de">Mapping the Landscape<a> - Geisteswissenschaftliches Forschungsdatenmanagement zwischen lokalen und globalen, generischen und spezifischen Lösungen" bewerben! <a href="https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf">https://dhd-ag-datenzentren.github.io/documents/FORGE21_Call-for-Papers.pdf<a>
   
-- **RaDiHum20 spricht mit der AG Datenzentren**
+### RaDiHum20 spricht mit der AG Datenzentren
   In der Januarfolge des Kanals RaDIHum20 sprechen die Convenorinnen der AG Datenzentren des Verbands der "Digital Humanities im deutschsprachigen Raum" mit dem Team von RaDiHum zum Thema Forschungsdatenmanagement und Aufgaben der Wissenschaft zur Publikation von qualitätsgesicherten und dokumentierten Daten. <a href="https://radihum20.de/ag-datenzentren/">https://radihum20.de/ag-datenzentren/<a>
   
   
-- **Dienstekatalog AG Datenzentren**
+## Dienstekatalog AG Datenzentren
 Erreichbar unter: <a href="https://dhd-ag-datenzentren-dienstekatalog.github.io/">https://dhd-ag-datenzentren-dienstekatalog.github.io/<a>
 
     
-**Veranstaltungen 2020** 
+## Veranstaltungen 2020
 - **Barcamp “Vermittlung von Data Literacy in den Geisteswissenschaften” auf der DHd 2020 organisiert von Mitgliedern der AG Datenzentren**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12806">https://dhd-blog.org/?p=12806<a>
 
-- **Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
+### Workshop der AG Datenzentren zum Thema Interoperabilität am 23./24.01.2020 in Frankfurt am Main**
 Mehr Informationen unter: <a href="https://dhd-blog.org/?p=12627">https://dhd-blog.org/?p=12627<a>
   - **Folien des Workshops 2020**
 Erreichbar unter: <a href="https://dhd-ag-datenzentren.github.io/workshop_2020">https://dhd-ag-datenzentren.github.io/workshop_2020<a>
 
-**Neue Publikation der DHd-AG-Datenzentren** 
+## Neue Publikation der DHd-AG-Datenzentren
 
 - Ulrike Wuttke, Patrick Helling und Jonathan Blumtritt für die DHd-AG Datenzentren sowie A. Czmiel, K. Moeller, P. Gietz, K. Wörner, C. Wagner und B. Ebert, 'Wie es Euch gefällt? Perspektiven wissenschaftsgeleiteter Organisationsformen des Datenmanagements für die Geisteswissenschaften (Bericht vom Panel der AG Datenzentren während der DHd 2019, Mainz & Frankfurt am Main)', 20.06.2019. <a href="https://dhd-blog.org/?p=11870">https://dhd-blog.org/?p=11870</a>
 
