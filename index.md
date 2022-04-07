@@ -33,7 +33,7 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="http://humanities-data-centre.de/" target="_blank">Humanities Data Centre (HDC)</a>, Göttingen: Sven Bingert, Claudia Engelhardt, Daniel Kurzawe, Jörg Wettlaufer.*
 - <a href="http://www.ianus-fdz.de" target="_blank">IANUS am Deutschen Archäologischen Institut (IANUS)</a>, Berlin: Maurice Heinrich, Felix Schäfer.
 - <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt, Hanna Hedeland.
-- <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Deutsche Geschichte</a>, Mainz: Fabian Cremer.
+- <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Europäische Geschichte</a>, Mainz: Fabian Cremer.
 - <a href="https://https://www.maxweberstiftung.de/startseite.html">Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland</a>, Bonn: Julian Schulz.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
 - FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
