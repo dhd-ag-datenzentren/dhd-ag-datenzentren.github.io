@@ -13,7 +13,12 @@ Die Arbeitsgruppe Datenzentren führt die laufenden Aktivitäten an den verschie
 
 Die Arbeitsgruppe hat eine [Stellungnahme](https://dig-hum.de/stellungnahme-dhd-nfdi) zur Nationalen Forschungsdateninfrastruktur sowie ein [Grundsatzpapier](https://zenodo.org/record/1134760#.WpCUL4WcFPY) zur Sicherung der langfristigen Verfügbarkeit von Forschungsdaten veröffentlicht, das Arbeitsfelder der AG näher beleuchtet.
 
-An der Arbeitsgruppe sind beteiligt:
+# Mailingsliste
+
+Registrieren Sie sich für die DHd-Mailingliste [Info](http://dig-hum.de/dhd-mailingliste). Um frühere Nachrichten an diese Liste zu sehen, besuchen Sie bitte das Archiv der Liste DHd [Link](https://mailman.rrz.uni-hamburg.de/mailman/private/dhd/). (Das aktuelle Archiv ist nur für die Abonnenten der Liste zugänglich.) .
+
+
+# An der Arbeitsgruppe sind beteiligt:
 
 - <a href="http://www.adwmainz.de/mitarbeiterinnen/profil/jonathan-d-geiger.html" target="_blank">Akademie der Wissenschaften und der Literatur, Digitale Akademie</a>, Mainz: Jonathan G. Geiger.
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
@@ -27,13 +32,14 @@ An der Arbeitsgruppe sind beteiligt:
 - <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Deutsche Nationalbibliothek (DNB)</a>, Leipzig und Frankfurt am Main: Peter Leinen
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
 - <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
-- <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Stefan Schulte, Ortun Brand.*
+- <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Ortun Brand.*
 - [Hessisches Landesarchiv](https://landesarchiv.hessen.de/), Marburg: Nils Reichert 
 - <a href="http://www.geschichte.uni-halle.de/struktur/hist-data/" target="_blank">Historisches Datenzentrum Sachsen-Anhalt (Hist-Data)</a>, Halle-Wittenberg: Katrin Moeller / Forschungsinfrastrukturen Universitäts- und Landesbibliothek Sachsen-Anhalt: Roberto Cozatl (ULB).*
 - <a href="http://humanities-data-centre.de/" target="_blank">Humanities Data Centre (HDC)</a>, Göttingen: Sven Bingert, Claudia Engelhardt, Daniel Kurzawe, Jörg Wettlaufer.*
 - <a href="http://www.ianus-fdz.de" target="_blank">IANUS am Deutschen Archäologischen Institut (IANUS)</a>, Berlin: Maurice Heinrich, Felix Schäfer.
 - <a href="http://agd.ids-mannheim.de/" target="_blank">Institut für Deutsche Sprache - Archiv für Gesprochenes Deutsch</a>, Mannheim: Thomas Schmidt, Hanna Hedeland.
 - <a href="https://www.ieg-mainz.de/" target="_blank">Leibniz-Institut für Europäische Geschichte</a>, Mainz: Fabian Cremer.
+- <a href="https://www.uni-marburg.de/de/mcdci" target="_blank">Marburg Center for Digital Culture and Infrastructure (MCDCI)</a>, Marburg: Stefan Schulte.
 - <a href="https://https://www.maxweberstiftung.de/startseite.html">Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland</a>, Bonn: Julian Schulz.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
 - FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
@@ -103,20 +109,23 @@ Der Blogeintrag zum Panel ist nun veröffentlicht und kann hier nachgelesen werd
 
 ## Kontakt/Convenor
 
-**Katrin Moeller**  
-Historisches Datenzentrum Sachsen-Anhalt  
-Martin-Luther-Universität Halle-Wittenberg  
-Telefon: +49 (0)345 55 - 24286  
-E-Mail: [katrin.moeller@geschichte.uni-halle.de](mailto:katrin.moeller@geschichte.uni-halle.de)  
+**Marina Lemaire**  
+Universität Trier
+Servicezentrum eSciences
+Telefon: +49 (0)0651 - 2104  
+E-Mail: [marina.lemaire@uni-trier.de](mailto:marina.lemaire@uni-trier.de)  
 
 Stellvertretende Convenor  
-**Ulrike Wuttke**  
-Fachhochschule Potsdam - RDMO  
-Fachbereich Informationswissenschaften  
-Kiepenheuerallee 5  
-14469 Potsdam  
-E-Mail: [ulrike.wuttke@gmx.net](mailto:ulrike.wuttke@gmx.net)  
+**Sibylle Söring**  
+Freie Universität Berlin
+Universitätsbibliothek
+Abt. Dienste für Forschung
+Team Forschungsdatenmanagement
+Telefon: +49 (0)30 838 63199
+E-Mail: [sibylle.soering@fu-berlin.de](sibylle.soering@fu-berlin.de)
+  
 
 Convenor 4/2014-3/2016: Patrick Sahle  
-Convenor 4/2016-3/2019: Kai Wörner	 
+Convenor 4/2016-3/2019: Kai Wörner
+Convenorinnen 4/2019-3/2022: Katrin Moeller & Ulrike Wuttke
 
