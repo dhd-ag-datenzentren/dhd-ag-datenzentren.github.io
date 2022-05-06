@@ -124,7 +124,7 @@ Team Forschungsdatenmanagement
 Telefon: +49 (0)30 838 63199
 E-Mail: [sibylle.soering@fu-berlin.de](sibylle.soering@fu-berlin.de)
   
-Convenorinnen 4/2019-3/2022: Katrin Moeller & Ulrike Wuttke
-Convenor 4/2016-3/2019: Kai Wörner
-Convenor 4/2014-3/2016: Patrick Sahle  
+- Convenorinnen 4/2019-3/2022: Katrin Moeller & Ulrike Wuttke
+- Convenor 4/2016-3/2019: Kai Wörner
+- Convenor 4/2014-3/2016: Patrick Sahle  
 
