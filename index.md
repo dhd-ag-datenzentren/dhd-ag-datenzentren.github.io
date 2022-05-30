@@ -15,7 +15,7 @@ Die Arbeitsgruppe hat eine [Stellungnahme](https://dig-hum.de/stellungnahme-dhd-
 
 # Mailingsliste
 
-Registrieren Sie sich für die DHd-Mailingliste [Info](http://dig-hum.de/dhd-mailingliste). Um frühere Nachrichten an diese Liste zu sehen, besuchen Sie bitte das Archiv der Liste DHd [Link](https://mailman.rrz.uni-hamburg.de/mailman/private/dhd/). (Das aktuelle Archiv ist nur für die Abonnenten der Liste zugänglich.) .
+Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/mailman/listinfo/dhd-ag-datenzentren). Um frühere Nachrichten an diese Liste zu sehen, besuchen Sie bitte das Archiv der Liste DHd [Link](https://listserv.gwdg.de/mailman/private/dhd-ag-datenzentren/). (Das aktuelle Archiv ist nur für die Abonnenten der Liste zugänglich.) .
 
 
 # An der Arbeitsgruppe sind beteiligt:
