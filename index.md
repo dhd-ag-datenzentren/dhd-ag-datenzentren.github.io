@@ -24,6 +24,7 @@ Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
 - <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Katja Marciniak, Dominik Blöse, Markus Schnöpf.*
 - <a href="https://www.geschichte.uni-wuppertal.de/de/personen/digital-humanities/prof-dr-patrick-sahle.html" target="_blank">Bergische Universität Wuppertal, Lehrgebiet Digital Humanities</a>, Wuppertal: Patrick Sahle.
+- <a href="https://www.geschichte.uni-wuppertal.de/de/personen/digital-humanities/prof-dr-patrick-sahle.html" target="_blank">CAU Kiel, Zentrales Forschungsdatenmanagement, Servicebereich Digital Humanities und Forschungsdaten</a>, Kiel: Andreas Christ*
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
 - [DAASI International](https://daasi.de/de/), Tübingen: Peter Gietz
 - <a href="https://de.dariah.eu/" target="_blank">Digitale Geisteswissenschaften - DARIAH-DE</a>: Ulrich Schwardmann, Tibor Kálmán, Philipp Wieder (GWDG).*
