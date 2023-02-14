@@ -44,7 +44,7 @@ Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/
 - <a href="https://www.uni-marburg.de/de/mcdci" target="_blank">Marburg Center for Digital Culture and Infrastructure (MCDCI)</a>, Marburg: Stefan Schulte.
 - <a href="https://https://www.maxweberstiftung.de/startseite.html">Max Weber Stiftung – Deutsche Geisteswissenschaftliche Institute im Ausland</a>, Bonn: Julian Schulz.
 - <a href="https://tu-dresden.de/mz" target="_blank">Medienzentrum an der TU Dresden</a>: Sander Münster.
-- FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke (stellv. Convenor).
+- FH Potsdam, <a href="https://rdmorganiser.github.io/" target="_blank">RDMO</a>, Ulrike Wuttke.
 - <a href="http://www.sagw.ch" target="_blank">Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</a>, Bern: Beat Immenhauser.
 - <a href="http://www.esciences.uni-trier.de/" target="_blank">Servicecentrum eSciences</a>, Universität Trier: Marina Lemaire*
 - <a href="https://www.tu-braunschweig.de/ub" target="_blank">Universitätsbibliothek der Technischen Universität Braunschweig</a>, Timo Steyer.
