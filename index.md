@@ -56,6 +56,9 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 
 ## Aktuelles
 
+### Sammlung von FDM-Beratungsworkflows 
+Im Nachgang zum letzten AG-Treffen hat sich eine Gruppe zusammengefunden, die sich über die durchführungen von FDM-Beratungen austauscht und nun plant Workflows, wie sie an einzelnen Einrichtungen durchgeführt werden, kommentiert bereitzustellen. Die Arbeitsgruppe ist offen für weitere Beitragende.
+
 ### Sammlung von Fallbeispielen für ethische Aspekte im Forschungsdatenmanagement
 Im Nachgang zu unserem CARE-Workshop auf der DHd2022 sammeln wir weiterhin Fallbeispiele zum Umgang mit Forschungsdaten aus ethischer Perspektive, unter Berücksichtigung von Machtdynamiken und historische Kontexten. Über dieses <a href="https://www.esciences.uni-trier.de/fallbeispielen-care-ethik/">Formular</a> können weitere Fallbeispiele eingereicht werden.
 
@@ -64,6 +67,23 @@ Konzeption und Moderation: Katrin Moeller (Martin-Luther-Universität Halle-Witt
 
 Vertreter:innen von Infrastruktureinrichtungen (AG Datenzentren) möchten mit Forschenden über ethische Herausforderungen zur Entwicklung und Umsetzung des Forschungsdatenmanagements (FDM) diskutieren. Dabei fallen häufig Beratungs- und Kompetenzvermittlungsaufgaben an, die weit in rechtliche und ethische Thematiken ausgreifen, für die Mitarbeiter:innen von Datenzentren und Infrastruktureinrichtungen aber nicht geschult sind, und für die aus geisteswissenschaftlicher Perspektive auch kaum Handreichungen existieren.Ergänzt wird diese Perspektive durch fachliche Beiträge zu Anwendungskontexten, zur Relevanz und disziplinären Ausweitung der CARE-Prinzipien durch die Ethnologin Sabine Imeri (FID Sozial- und Kulturanthropologie, HU Berlin/Universität Bremen) sowie Vertreter:innen weiterer Fachkontexte. Die einzelnen Themenblöcke werden Herausforderungen am Beispiel von Oral History (Verena Lucia Nägel, Universitätsbibliothek, FU Berlin), Afrikanistik/Linguistik (Henning Schreiber/Katrin Pfeiffer, Asien-Afrika-Institut, Universität Hamburg) sowie Archivrecht (Thomas Henne, Archivschule Marburg) in den Blick nehmen. Die Verschränkung von FDM-Expertise und Problemszenarien der Forschungspraxis soll beide Handlungsebenen besser miteinander in Bezug setzen und die gegenseitige Wahrnehmung von Bedarfen, Herausforderungen und Lösungskonzepten fördern. Der Workshop ist bereits vollständig ausgebucht: <a href="https://www.conftool.net/dhd2022/index.php?page=browseSessions&form_session=6&presentations=show">Workshop<a>
   
+## Veranstaltungen 2023
+### DHd2023 Workshop “Hands-on-Workshop Datendokumentation”
+  Am **14. März 2023 9:00–17:30** auf dem Belval (Luxemburg) im Gebäude Maison du Savoir – Auditoires im Raum MSA-3.200.
+  Weblink: https://dhd2023.dig-hum.de/page/programmubersich
+  
+### AG-Treffen auf der DHd2023
+  Am **16.03.2023 um 17:30** an der Universität Trier.
+  
+### FORGE23 "Anything goes!?. Forschungsdaten in den Geisteswissenschaften kritisch betrachtet
+
+  Vom 4.-6. Oktober 2023 findet die FORGE23 in Tübingen statt.
+  Das [Call for Paper](https://forge23.uni-tuebingen.de/#call-for-papers) ist am 13.02.2023 veröffentlicht worden. Deadline für die Einreichung ist der 28.04.2023.
+  
+
+Webseite: https://dhd2023.dig-hum.de/ 
+  
+## Veranstaltungen 2022
 ### AG-Treffen auf der DHD 2022
   Das AG Treffen auf der digitalen DHd 2022 findet am Donnerstag, den 10. März 2022 zwischen 13:30 und 14:30 Uhr statt. Das Treffen ist öffentlich über die Tagungsanmeldung zur DHd 2020 möglich: <a href="https://www.conftool.net/dhd2022/sessions.php">https://www.conftool.net/dhd2022/sessions.php<a>
 
