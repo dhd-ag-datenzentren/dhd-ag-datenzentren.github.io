@@ -59,9 +59,6 @@ Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastruktur
 ### Sammlung von FDM-Beratungsworkflows 
 Im Nachgang zum letzten AG-Treffen hat sich eine Gruppe zusammengefunden, die sich über die durchführungen von FDM-Beratungen austauscht und nun plant Workflows, wie sie an einzelnen Einrichtungen durchgeführt werden, kommentiert bereitzustellen. Die Arbeitsgruppe ist offen für weitere Beitragende.
 
-### Sammlung von Fallbeispielen für ethische Aspekte im Forschungsdatenmanagement
-Im Nachgang zu unserem CARE-Workshop auf der DHd2022 sammeln wir weiterhin Fallbeispiele zum Umgang mit Forschungsdaten aus ethischer Perspektive, unter Berücksichtigung von Machtdynamiken und historische Kontexten. Über dieses <a href="https://www.esciences.uni-trier.de/fallbeispielen-care-ethik/">Formular</a> können weitere Fallbeispiele eingereicht werden.
-
 ## Veranstaltungen 2023
 ### DHd2023 Workshop “Hands-on-Workshop Datendokumentation”
   Am **14. März 2023 9:00–17:30** auf dem Belval (Luxemburg) im Gebäude Maison du Savoir – Auditoires im Raum MSA-3.200.
