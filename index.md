@@ -4,7 +4,7 @@ title: Home
 ---
 
 # AG geisteswissenschaftliches Forschungsdatenmanagement (AG gwFDM) im Verband DHd
-**vormals AG Datenzentren | Umbenannt auf der DHd2024**
+**vormals AG Datenzentren | umbenannt auf der DHd2024**
 
 Die Digital Humanities sind wesentlich durch projektbasierte Forschungsaktivitäten gekennzeichnet. Durch deren zeitliche Begrenzung stellt sich das Problem der nachhaltigen Verfügbarkeit und Nutzbarkeit von Forschungsdaten. Was passiert, wenn Projekte enden? Wie können die entstandenen Daten archiviert werden? Wie können die Ergebnisse der Forschung dauerhaft zur Verfügung gestellt werden?
 
@@ -129,7 +129,7 @@ Erreichbar unter: <a href="https://dhd-ag-datenzentren.github.io/workshop_2020">
 Der Blogeintrag zum Panel ist nun veröffentlicht und kann hier nachgelesen werden: <a href="https://dhd-blog.org/?p=9740">https://dhd-blog.org/?p=9740</a>
 
 
-## Kontakt/Convenor
+## Kontakt/Convenor*innen
 
 **Marina Lemaire**  
 Universität Trier
@@ -152,7 +152,7 @@ Universitätsbibliothek
 Leitung Digital Humanities & Forschungsdaten
 E-Mail: christ@ub.uni-kiel.de
 
-## Ehemalige Conveno*innen
+## Ehemalige Convenor*innen
 - Convenorinnen 4/2019-3/2022: Katrin Moeller & Ulrike Wuttke
 - Convenor 4/2016-3/2019: Kai Wörner
 - Convenor 4/2014-3/2016: Patrick Sahle  
