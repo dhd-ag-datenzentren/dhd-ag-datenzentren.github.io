@@ -3,8 +3,8 @@ title: Home
 
 ---
 
-# AG Datenzentren im Verband DHd
-![grafik](https://github.com/dhd-ag-datenzentren/dhd-ag-datenzentren.github.io/blob/master/img/DHd-AG-Datenzentren-logo.png)
+# AG geisteswissenschaftliches Forschungsdatenmanagement (AG gwFDM) im Verband DHd
+**vormals AG Datenzentren**
 Die Digital Humanities sind wesentlich durch projektbasierte Forschungsaktivitäten gekennzeichnet. Durch deren zeitliche Begrenzung stellt sich das Problem der nachhaltigen Verfügbarkeit und Nutzbarkeit von Forschungsdaten. Was passiert, wenn Projekte enden? Wie können die entstandenen Daten archiviert werden? Wie können die Ergebnisse der Forschung dauerhaft zur Verfügung gestellt werden?
 
 Um diese Fragen zu beantworten, wird seit einiger Zeit an verschiedenen Orten am Aufbau von Datenzentren für die Geisteswissenschaften gearbeitet. Methodisch knüpfen sie an die schon länger laufenden Aktivitäten zum Beispiel zur Langzeitarchivierung von Daten oder zum allgemeinen Forschungsdatenmanagement an, gehen über diese Problemfelder aber noch hinaus. Eine der Grundlagen dieser Aktivitäten bezieht sich auf die Spezifik geisteswissenschaftlicher Forschung, die durch das Modell erhobener und archivierbarer Primärdaten auf der einen Seite und publizierbarer Ergebnisdaten auf der anderen Seite nicht hinreichend beschrieben ist. Die Arbeit zum Beispiel mit digitalen Repräsentationen kultureller Artefakte, bei denen Historizität und Kontextualität eine entscheidende Rolle spielen und die Gegenstand fortlaufender Erschließung, Beschreibung und Annotation sind, führt zu einem anderen Aufgabenspektrum als dies bei anderen Fachbereichen oder generischen Datenarchiven der Fall ist.
