@@ -54,7 +54,7 @@ Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/
 - <a href="https://www.ulb.tu-darmstadt.de/" target="_blank">Universitäts- und Landesbibliothek</a>, Darmstadt: Thomas Stäcker.
 - <a href="https://informationsmodellierung.uni-graz.at/" target="_blank">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities Graz (ZIM-ACDH)</a>, Graz: Johannes Stigler.*
 - <a href="https://www.fdm.uni-hamburg.de/ueber-uns/gwin.html">Zentrum für nachhaltiges Forschungsdatenmanagement/Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin)</a>, Hamburg: Kai Wörner.*
-- -<a href="https://www.inf.uni-rostock.de/wkt/forschung/forschungsschwerpunkt-digitale-hermeneutik/">Zentrum Mecklenburg. Historisches Institut. WKT-Forschungsschwerpunkts „Digitale Hermeneutik“</a>, Universität Rostock, Nico Urbach.
+- <a href="https://www.inf.uni-rostock.de/wkt/forschung/forschungsschwerpunkt-digitale-hermeneutik/">Zentrum Mecklenburg. Historisches Institut. WKT-Forschungsschwerpunkts „Digitale Hermeneutik“</a>, Universität Rostock, Nico Urbach.
 
 Die mit dem **Sternchen** \* gekennzeichneten Institutionen bieten Infrastrukturen des Forschungsdatenmanagements in den Geisteswissenschaften an.
 
