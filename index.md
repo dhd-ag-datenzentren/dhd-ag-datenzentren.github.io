@@ -25,7 +25,7 @@ Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/
 
 - <a href="http://www.adwmainz.de/mitarbeiterinnen/profil/jonathan-d-geiger.html" target="_blank">Akademie der Wissenschaften und der Literatur, Digitale Akademie</a>, Mainz: Jonathan G. Geiger.
 - <a href="http://acdh.oeaw.ac.at/" target="_blank">Austrian Centre for Digital Humanities (ACDH-ÖAW)</a>, Wien: Matej Ďurčo.*
-- <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Katja Marciniak, Dominik Blöse, Markus Schnöpf.*
+- <a href="http://www.bbaw.de" target="_blank">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</a>, Berlin: Karoline Lemke, Gerald Neumann, Markus Schnöpf.*
 - <a href="https://www.geschichte.uni-wuppertal.de/de/personen/digital-humanities/prof-dr-patrick-sahle.html" target="_blank">Bergische Universität Wuppertal, Lehrgebiet Digital Humanities</a>, Wuppertal: Patrick Sahle.
 - <a href="https://www.ub.uni-kiel.de/de/digital-humanities" target="_blank">CAU Kiel, Zentrales Forschungsdatenmanagement, Servicebereich Digital Humanities und Forschungsdaten</a>, Kiel: Andreas Christ*
 - <a href="http://www.clarin-d.net" target="_blank">CLARIN-D-Zentrum Tübingen, Seminar für Sprachwissenschaft (Clarin-D)</a>, Tübingen: Erhard Hinrichs, Thorsten Trippel.*
