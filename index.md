@@ -36,6 +36,7 @@ Registrieren Sie sich für die DHd-Mailingliste [Info](https://listserv.gwdg.de/
 - <a href="https://www.dnb.de/DE/Home/home_node.html" target="_blank">Deutsche Nationalbibliothek (DNB)</a>, Leipzig und Frankfurt am Main: Peter Leinen
 - <a href="https://www.germanistik.uni-rostock.de/lehrende/professorinnen-und-professoren/jun-prof-dr-ulrike-henny-krahmer/">Digital Humanities, Universität Rostock</a>, Rostock: Ulrike Henny-Krahmer
 - <a href="http://www.escience.uni-tuebingen.de/forschungsdatenarchiv-fdat.html" target="_blank">eScience Center</a>, Tübingen: Matthias Lang.*
+- <a href="http://dsa.info/"  target="_blank">Forschungszentrum Deutscher Sprachatlas</a>, Marburg: Hanna Fischer, Alfred Lameli
 - <a href="https://www.cedis.fu-berlin.de/" target="_blank">FU Berlin, Center für Digitale Systeme (CeDiS)</a> / UB: Sybille Söring.
 - <a href="https://www.uni-marburg.de/projekte/forschungsdaten/projekt" target="_blank">Hessische Forschungsdateninfrastrukturen</a>, Marburg: Ortun Brand.*
 - [Hessisches Landesarchiv](https://landesarchiv.hessen.de/), Marburg: Nils Reichert 
